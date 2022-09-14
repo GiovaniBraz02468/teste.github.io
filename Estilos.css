@@ -1,0 +1,26 @@
+body{
+	background-color: #EBC51E;
+}
+.centrar{
+	text-align: center;
+}
+
+div{
+	border-radius: 20px;
+	color: #800005;
+}
+
+.fff{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.ddd{
+	text-align: center;
+}
+
+.produto_imagem{
+	margin: 10px;
+}
